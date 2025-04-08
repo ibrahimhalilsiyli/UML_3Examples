@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UML_odev", "UML_odev.csproj", "{AEB111FE-7BA0-4647-B4A7-F609BCE8C085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB111FE-7BA0-4647-B4A7-F609BCE8C085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB111FE-7BA0-4647-B4A7-F609BCE8C085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB111FE-7BA0-4647-B4A7-F609BCE8C085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB111FE-7BA0-4647-B4A7-F609BCE8C085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23531467-40FD-42C7-9F69-5F9FD424C13C}
+	EndGlobalSection
+EndGlobal
